@@ -16,7 +16,7 @@ Multi-Frame Prediction in Manipulation</strong></h1>
 
 <div id="top" align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-2504.13175-green)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2506.19816-green)](https://arxiv.org/abs/2506.19816)
 [![Homepage](https://img.shields.io/badge/Homepage-%F0%9F%8C%90-blue)](https://LiHaoHN.github.io/CronusVLA.github.io)
 
 </div>
@@ -136,10 +136,10 @@ Description of Arguments:
 <!-- If you find our work helpful, please cite: -->
 
 ```bibtex
-@article{xxx,
-  title={xxx},
-  author={xxx},
-  journal={xxx},
-  year={2025}
-}
+@misc{2506.19816,
+  Author = {Hao Li and Shuai Yang and Yilun Chen and Yang Tian and Xiaoda Yang and Xinyi Chen and Hanqing Wang and Tai Wang and Feng Zhao and Dahua Lin and Jiangmiao Pang},
+  Title = {CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation},
+  Year = {2025},
+  Eprint = {arXiv:2506.19816},
+  }
 ```
